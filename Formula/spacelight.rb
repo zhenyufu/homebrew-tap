@@ -3,7 +3,7 @@ class Spacelight < Formula
   homepage "https://github.com/zhenyufu/spacelight"
   url "https://github.com/zhenyufu/spacelight.git",
       tag:      "v0.1.0",
-      revision: "PLACEHOLDER"
+      revision: "90c358f43db2f3d6d1ca611eeccaee68e40892ac"
   license "MIT"
 
   depends_on :macos
